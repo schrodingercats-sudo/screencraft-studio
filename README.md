@@ -126,6 +126,24 @@ Create a `.env.local` file in the root directory:
 NEXT_PUBLIC_API_URL=your_api_url
 ```
 
+## 📚 Documentation
+
+Comprehensive documentation is available:
+
+- **[PRD.md](./PRD.md)** - Complete Product Requirements Document (952 lines)
+  - Full database schema with SQL
+  - API specifications and WebSocket events
+  - System architecture diagram
+  - User flows and UI specifications
+  - Security & compliance requirements
+  - 18-week development roadmap
+- **[PRD_ENHANCEMENTS.md](./PRD_ENHANCEMENTS.md)** - PRD enhancement summary
+- **[ARCHITECTURE.md](./ARCHITECTURE.md)** - Technical architecture details
+- **[FEATURES.md](./FEATURES.md)** - Feature status and roadmap
+- **[DEVELOPMENT.md](./DEVELOPMENT.md)** - Developer guide
+- **[QUICKSTART.md](./QUICKSTART.md)** - Quick start guide
+- **[PROJECT_SUMMARY.md](./PROJECT_SUMMARY.md)** - Project status overview
+
 ## 📄 License
 
 Copyright © 2026 ScreenCraft Studio. All rights reserved.
